@@ -5,10 +5,10 @@
 > npm install
 ```
 
-- Rodar a aplica√√o:
+- Rodar a aplica√ß√£o:
 ```bash
 > ionic serve -lc
 ```
 
-- Endere√o:
+- Endere√ßo:
 `http://localhost:8200` ou `http://localhost:8100`
